@@ -43,7 +43,7 @@ operating interface.
 
 *Nipype*, an open-source/community-developed initiative under the umbrella of NiPy, is a Python project that provides a
 uniform interface for existing neuroimaging software and facilitates their interaction. Nipype provides a
-single-workflow environment for interactive exploration of algorithms from different packages (e.g. SPM, FSL,
+single-workflow environment for interactive exploration of algorithms from different packages (e.g., SPM, FSL,
 FreeSurfer, AFNI, Slicer, ANTS), eases the design of workflows between packages and minimizes the learning curve for
 different packages. Nipype is creating a collaborative platform for neuroimaging software development in a
 high-level language and addressing limitations of existing pipeline systems.
