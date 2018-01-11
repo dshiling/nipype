@@ -37,22 +37,17 @@ NIPYPE: Neuroimaging in Python: Pipelines and Interfaces
 .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.581704.svg
    :target: https://doi.org/10.5281/zenodo.581704
 
-Current neuroimaging software provides users with an incredible opportunity to
-analyze data using a variety of different algorithms. However, this has
-resulted in a heterogeneous collection of specialized applications
-without transparent interoperability or a uniform operating interface.
+Current neuroimaging software gives users an incredible opportunity to analyze data using a variety of different
+algorithms. However, this results in a wide variety of specialized applications that lack interoperability or a uniform
+operating interface.
 
-*Nipype*, an open-source/community-developed initiative under the
-umbrella of NiPy, is a Python project that provides a uniform interface
-for existing neuroimaging software and facilitates interaction between
-this software in a single-worklow. Nipype provides an environment
-that encourages interactive exploration of algorithms from different
-packages (e.g., SPM, FSL, FreeSurfer, AFNI, Slicer, ANTS), eases the
-design of workflows within and between packages, and reduces the
-learning curve necessary to use different packages. Nipype is creating a
-collaborative platform for neuroimaging software development in a
-high-level language and addressing limitations of existing pipeline
-systems.
+*Nipype*, an open-source/community-developed initiative under the umbrella of NiPy, is a Python project that provides a
+uniform interface for existing neuroimaging software and facilitates their interaction. Nipype provides a
+single-workflow environment for interactive exploration of algorithms from different packages (e.g. SPM, FSL,
+FreeSurfer, AFNI, Slicer, ANTS), eases the design of workflows between packages and minimizes the learning curve for
+different individual packages. Nipype is creating a collaborative platform for neuroimaging software development in a
+high-level language and addressing limitations of existing pipeline systems. Nipype is creating a collaborative platform
+for neuroimaging software development in a high-level language and addressing limitations of existing pipeline systems.
 
 *Nipype* allows you to:
 
