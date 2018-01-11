@@ -15,6 +15,7 @@
 .pydevproject
 .eggs
 .idea/
+nipype_venv/
 /documentation.zip
 .DS_Store
 nipype/testing/data/von-ray_errmap.nii.gz
